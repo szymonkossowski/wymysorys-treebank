@@ -40,7 +40,7 @@ from French by Tymoteusz Król and Joanna Maryniak
 Wymysorys translation of the "Little Prince" by Antoine de Saint-Exupéry, represents the narration genre. In the metadata 
 in the treebank denoted as `# text_source = "Der Kliny Fjyśt"`.
 
-+ Szutow, Paweł (2024); *S’łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt / Podręcznik do nauki języka wilamowskiego *
++ Szutow, Paweł (2024); *S’łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt / Podręcznik do nauki języka wilamowskiego*
 *dla dorosłych*; Wydawnictwo Cum Laude
 
 A Wymysorys textbook for adults, genre: grammar; in the metadata in the treebank denoted as 
