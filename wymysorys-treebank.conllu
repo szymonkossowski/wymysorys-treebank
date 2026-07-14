@@ -1,0 +1,2586 @@
+# sent_id = 1
+# text = Wymysoü ej ȧ śejny, kliny śtot.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wymysoü	Wymysoü	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+2	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+3	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
+4	śejny	śejn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	śtot	śtot	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 2
+# text = Y Wymysoü diöft zih nimand ferwȧjwa.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Y	y	ADP	_	_	2	case	_	_
+2	Wymysoü	Wymysoü	PROPN	_	Case=Dat|Gender=Neut	6	nmod	_	_
+3	diöft	djyfa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	zih	zih	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+5	nimand	nimand	PRON	_	Case=Nom|Number=Sing|PronType=Ind	6	nsubj	_	_
+6	ferwȧjwa	ferwȧjwa	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 3
+# text = Fun nökwer, fun, no, djyfyn.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Fun	fun	ADP	_	_	2	case	_	_
+2	nökwer	nökwer	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	reparandum	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	fun	fun	ADP	_	_	6	case	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	no	no	PART	_	_	8	discourse	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	djyfyn	diöf	NOUN	_	Case=Dat|Number=Plur	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 4
+# text = Ju, oder dy höst gyziöet, do fu dar zȧjt fu Wymysoü, fum End?
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ju	ju	INTJ	_	_	6	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	oder	oder	CCONJ	_	_	6	cc	_	_
+4	dy	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	höst	hon	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	gyziöet	ziöen	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	do	do	SCONJ	_	_	11	mark	_	_
+9	fu	fu	ADP	_	_	11	case	_	_
+10	dar	dar	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem,Rel	11	det	_	_
+11	zȧjt	zȧjt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	ccomp	_	_
+12	fu	fu	ADP	_	_	13	case	_	_
+13	Wymysoü	Wymysoü	PROPN	_	Case=Dat|Gender=Neut	11	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	fum	fu	ADP	_	_	16	case	_	_
+16	End	End	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	appos	_	SpaceAfter=No
+17	?	?	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 5
+# text = Oły djyfyn hota yns ny gan.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Oły	oły	DET	_	Case=Nom|Number=Plur|PronType=Tot	2	det	_	_
+2	djyfyn	diöf	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
+3	hota	hon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	yns	wjyr	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	3	obj	_	_
+5	ny	ny	PART	_	Polarity=Neg	6	advmod	_	_
+6	gan	gan	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 6
+# text = Mȧj kłop wiöe fu Błan, dar kuzt ok pönyś.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Mȧj	mȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	kłop	kłop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	wiöe	zȧjn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fu	fu	ADP	_	_	5	case	_	_
+5	Błan	Błan	PROPN	_	Case=Dat|Number=Sing	3	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	dar	dar	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	8	nsubj	_	_
+8	kuzt	kuza	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl	_	_
+9	ok	ok	ADV	_	Degree=Pos	8	advmod	_	_
+10	pönyś	pönyś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Wjyr kunda nist ny kuza, bo: „Yhy wȧs ołys, wos jyr kuzt”.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wjyr	wjyr	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
+2	kunda	kyna	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	5	aux	_	_
+3	nist	nist	PRON	_	PronType=Neg	5	obj	_	_
+4	ny	ny	PART	_	Polarity=Neg	5	advmod	_	_
+5	kuza	kuza	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	bo	bo	SCONJ	_	_	11	mark	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	11	punct	_	_
+9	„	„	PUNCT	_	_	11	punct	_	SpaceAfter=No
+10	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	wȧs	wysa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+12	ołys	ołys	PRON	_	Case=Acc|Number=Sing|PronType=Tot	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	wos	wos	PRON	_	Case=Acc|PronType=Int,Rel	16	obj	_	_
+15	jyr	jyr	PRON	_	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+16	kuzt	kuza	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
+17	”	”	PUNCT	_	_	11	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 8
+# text = Ider hot ym głaz ȧ hołwa liter woser ȧn ȧzu śprangta zy yns mytum woser.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ider	ider	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	2	nsubj	_	_
+2	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3-4	ym	_	_	_	_	_	_	_	_
+3	y	y	ADP	_	_	5	case	_	_
+4	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	głaz	głaz	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+6	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
+7	hołwa	hołwa	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	nummod	_	_
+8	liter	liter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	nummod	_	_
+9	woser	woser	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+10	ȧn	ȧn	CCONJ	_	_	12	cc	_	_
+11	ȧzu	ȧzu	ADV	_	Degree=Pos	12	advmod	_	_
+12	śprangta	śpranga	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+13	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+14	yns	wjyr	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	_
+15-16	mytum	_	_	_	_	_	_	_	_
+15	myt	myt	ADP	_	_	17	case	_	_
+16	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	woser	woser	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Mȧj foter hot fynfȧnzȧhcik jür.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Mȧj	mȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	foter	foter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fynfȧnzȧhcik	fynfȧnzȧhcik	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+5	jür	jür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 10
+# text = Hotwer ȧ zyta jung fad, cwejürikja, ȧ zyta świöecys.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1-2	Hotwer	_	_	_	_	_	_	_	_
+1	Hot	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+3	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+4	zyta	zyter	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
+5	jung	jung	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	fad	fad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	cwejürikja	cwejürikja	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	appos	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	_
+10	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	12	det	_	_
+11	zyta	zyter	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	_
+12	świöecys	świöc	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	appos	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 11
+# text = Uf Wymysdiöf ging yh wejder myter Polinskja-müm ufȧ opyłys.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Uf	uf	ADP	_	_	2	case	_	_
+2	Wymysdiöf	Wymysdiöf	PROPN	_	_	3	obj	_	_
+3	ging	gan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	wejder	wejder	ADV	_	Degree=Pos	3	advmod	_	_
+6-7	myter	_	_	_	_	_	_	_	_
+6	myt	myt	ADP	_	_	8	case	_	_
+7	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	Polinskja	Polinskja	PROPN	_	_	3	obl	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	müm	müm	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	flat:name	_	_
+11	ufȧ	uf	ADP	_	_	12	case	_	_
+12	opyłys	opyłys	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 12
+# text = Yhy wiöe ju njynt, h’wiöe jok y Wymysoü.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ju	ju	ADV	_	Degree=Pos	2	advmod	_	_
+4	njynt	njynt	ADV	_	Degree=Pos|Polarity=Neg	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	h’	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+7	wiöe	zȧjn	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	jok	jok	ADV	_	Degree=Pos	7	advmod	_	_
+9	y	y	ADP	_	_	10	case	_	_
+10	Wymysoü	Wymysoü	PROPN	_	Case=Dat|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 13
+# text = Yhy hot oü ȧn śejna ocug cym boda.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	oü	oü	ADV	_	Degree=Pos	2	advmod	_	_
+4	ȧn	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+5	śejna	śejn	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	ocug	ocug	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+7	cym	cy	ADP	_	_	8	case	_	_
+8	boda	boda	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 14
+# text = Nöht ging yh ufȧ rużanjec, grod ent’ȧ zih śun yta.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Nöht	nöht	ADV	_	Degree=Pos	2	advmod	_	_
+2	ging	gan	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4-5	ufȧ	_	_	_	_	_	_	_	_
+4	uf	uf	ADP	_	_	6	case	_	_
+5	yn	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	rużanjec	rużanjec	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	grod	grod	ADV	_	Degree=Pos	9	advmod	_	_
+9	ent	enda	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
+10	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	zih	zih	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
+12	śun	śun	ADV	_	Degree=Pos	9	advmod	_	_
+13	yta	yta	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 15
+# text = Mȧj dźjada ȧna zȧj brüder, s’wönt cwej zyty kynstlihjy.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Mȧj	mȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	dźjada	dźjada	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	dislocated	_	_
+3	ȧna	ȧna	CCONJ	_	_	5	cc	_	_
+4	zȧj	zȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	brüder	brüder	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	s’	dar	DET	_	Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	SpaceAfter=No
+8	wönt	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+9	cwej	cwej	NUM	_	NumType=Card	11	nummod	_	_
+10	zyty	zyter	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
+11	kynstlihjy	kynstlih	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 16
+# text = Ejwerhoüpt dö wün fejł zyty, di wjykta.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ejwerhoüpt	ejwerhoüpt	ADV	_	Degree=Pos	3	advmod	_	_
+2	dö	dö	ADV	_	Degree=Pos	3	advmod	_	_
+3	wün	zȧjn	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	fejł	fejł	DET	_	Case=Nom|Number=Plur|PronType=Ind	3	nsubj	_	_
+5	zyty	zyter	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	di	dar	PRON	_	Case=Nom|Number=Plur|PronType=Rel	8	nsubj	_	_
+8	wjykta	wjykja	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 17
+# text = Pönyśy śül mahta zy ołdyśt uf, wi der Bilczewski dö dy śül ufboüt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Pönyśy	pönyś	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	advmod	_	_
+2	śül	śül	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+3	mahta	maha	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	ołdyśt	ołdyśt	ADV	_	Degree=Pos	3	advmod	_	_
+6	uf	uf	ADP	_	_	3	compound:prt	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	wi	wi	ADV	_	Degree=Pos|PronType=Int	14	mark	_	_
+9	der	der	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Bilczewski	Bilczewski	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+11	dö	dö	ADV	_	Degree=Pos	14	advmod	_	_
+12	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	śül	śül	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+14	ufboüt	ufboün	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 18
+# text = Cyjyśt höt zy s’hemb.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Cyjyśt	cyjyśt	ADV	_	Degree=Pos	2	advmod	_	_
+2	höt	hon	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	s’	s’	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
+5	hemb	hemb	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 19
+# text = Hota zy won, fu hułc wiöe dy won.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Hota	hon	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	won	won	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	fu	fu	ADP	_	_	6	case	_	_
+6	hułc	hułc	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+7	wiöe	zȧjn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+8	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	won	won	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 20
+# text = Jyśter wiöe dy wjytśoft ganc andyśt wi yta.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Jyśter	jyśter	ADV	_	Degree=Pos	6	advmod	_	_
+2	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+3	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	wjytśoft	wjytśoft	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	ganc	ganc	ADV	_	Degree=Pos	6	advmod	_	_
+6	andyśt	andyśt	ADV	_	Degree=Pos	0	root	_	_
+7	wi	wi	ADV	_	Degree=Pos|PronType=Int	8	mark	_	_
+8	yta	yta	ADV	_	Degree=Pos	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 21
+# text = Yta wył yh jüh fercyła, wi dy hyt fu ȧm wymysiöejer wjyt fjym krig kund oüsśoün.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika" 
+1	Yta	yta	ADV	_	Degree=Pos	5	advmod	_	_
+2	wył	weła	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	jüh	jyr	PRON	_	Case=Dat|Clitic=Yes|Number=Plur|Person=2|PronType=Prs	5	obl	_	_
+5	fercyła	fercyła	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	18	punct	_	_
+7	wi	wi	ADV	_	Degree=Pos|PronType=Int	18	mark	_	_
+8	dy	der	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	hyt	hyt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+10	fu	fu	ADP	_	_	12	case	_	_
+11	ȧm	ȧ	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	12	det	_	_
+12	wymysiöejer	wymysiöejer	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	wjyt	wjyt	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	nmod	_	_
+14-15	fjym	_	_	_	_	_	_	_	_
+14	fjyr	fjyr	ADP	_	_	16	case	_	_
+15	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	krig	krig	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	18	obl	_	_
+17	kund	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+18	oüsśoün	oüsśoün	VERB	_	VerbForm=Inf	5	advcl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 22
+# text = Har köst fjym jyśta wełtkrig zejwa gułda y Win.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika" 
+1	Har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	köst	kösta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3-4	fjym	_	_	_	_	_	_	_	_
+3	fjyr	fjyr	ADP	_	_	6	case	_	_
+4	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	jyśta	jyśty	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
+6	wełtkrig	wełtkrig	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+7	zejwa	zejwa	NUM	_	NumForm=Word|NumType=Card	8	nummod	_	_
+8	gułda	gułda	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	_
+9	y	y	ADP	_	_	10	case	_	_
+10	Win	Win	PROPN	_	Case=Dat|Gender=Neut	2	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Undyn zȧhs toüzyt śpröha, wo zy eta wada yr wełt gykuzt, dy mȧsta zȧjn gybroüht fun klina grüpa.
+# text_genre = encyclopedia
+# text_source = "Wilamowice to piękne, małe miasto" 
+1-2	Undyn	_	_	_	_	_	_	_	_
+1	undyr	under	ADP	_	_	5	case	_	_
+2	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+3	zȧhs	zȧhs	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	_
+4	toüzyt	toüzyt	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+5	śpröha	śpröh	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	wo	wo	PRON	_	ExtPos=PRON|PronType=Int,Rel	14	nsubj	_	_
+8	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	7	fixed	_	_
+9	eta	eta	ADV	_	Degree=Pos	14	advmod	_	_
+10	wada	wada	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
+11-12	yr	_	_	_	_	_	_	_	_
+11	yn	y	ADP	_	_	13	case	_	_
+12	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	wełt	wełt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	_
+14	gykuzt	kuza	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	5	advcl:relcl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	dy	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+17	mȧsta	mȧst	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	19	nsubj	_	_
+18	zȧjn	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	gybroüht	gybroüha	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+20-21	fun	_	_	_	_	_	_	_	_
+20	fu	fu	ADP	_	_	23	case	_	_
+21	yn	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	23	det	_	_
+22	klina	klin	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	23	amod	_	_
+23	grüpa	grüp	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	_
+
+# sent_id = 24
+# text = Har łjyt zih, bo dö wiöe ȧner, der Jüza Gara, dar kuzt, dar kon kuza.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	łjyt	łjyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	zih	zih	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	bo	bo	SCONJ	_	_	8	mark	_	_
+6	dö	dö	ADV	_	Degree=Pos	8	advmod	_	_
+7	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	ȧner	ȧner	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Jüza	Jüza	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
+12	Gara	Gara	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	dar	dar	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	15	nsubj	_	_
+15	kuzt	kuza	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	dar	dar	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	18	nsubj	_	_
+18	kon	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl	_	_
+19	kuza	kuza	VERB	_	VerbForm=Inf	18	xcomp	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 25
+# text = Ȧn kom yh yn ham, nöhta, y dyham, ȧzu ȧ hołp jür maht yh nist, ok ȧzu zos yh, ȧna ȧ telewizor śoüt yh o.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ȧn	ȧn	CCONJ	_	_	2	cc	_	_
+2	kom	kuma	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+4	yn	yn	ADP	_	_	5	case	_	_
+5	ham	ham	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	_
+7	nöhta	nöht	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	y	y	ADP	_	Degree=Pos|ExtPos=ADV	16	advmod	_	_
+10	dyham	dyham	ADV	_	Degree=Pos	9	fixed	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	_
+12	ȧzu	ȧzu	ADV	_	Degree=Pos	16	discourse	_	_
+13	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	15	det	_	_
+14	hołp	hołp	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	_
+15	jür	jür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+16	maht	maha	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	parataxis	_	_
+17	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	_
+18	nist	nist	PRON	_	PronType=Neg	16	obj	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	ok	ok	ADV	_	Degree=Pos	22	advmod	_	_
+21	ȧzu	ȧzu	ADV	_	Degree=Pos	22	discourse	_	_
+22	zos	zyca	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	16	parataxis	_	_
+23	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	ȧna	ȧna	CCONJ	_	_	28	cc	_	_
+26	ȧ	ȧ	DET	_	Case=Dat|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	27	det	_	_
+27	telewizor	telewizor	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	28	obj	_	_
+28	śoüt	śoün	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	conj	_	_
+29	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	nsubj	_	_
+30	o	o	PART	_	_	28	compound:prt	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 26
+# text = Ȧ wymysiöeryś oü, no do dy ałda, dy junga kyna ju nist, mȧj kyndyn kyna wymysiöeryś ny.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ȧ	ȧ	CCONJ	_	_	2	cc	_	_
+2	wymysiöeryś	wymysiöeryś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	orphan	_	_
+3	oü	oü	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	no	no	PART	_	ExtPos=PART	8	orphan	_	_
+6	do	do	PART	_	_	5	fixed	_	_
+7	dy	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+8	ałda	ałd	NOUN	_	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	dy	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	junga	jung	NOUN	_	Case=Nom|Number=Plur	12	nsubj	_	_
+12	kyna	kyna	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Press|VerbForm=Fin	8	parataxis	_	_
+13	ju	ju	ADV	_	Degree=Pos	12	advmod	_	_
+14	nist	nist	PRON	_	PronType=Neg	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	mȧj	mȧj	DET	_	Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	kyndyn	kynd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	18	nsubj	_	_
+18	kyna	kyna	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Press|VerbForm=Fin	12	parataxis	_	_
+19	wymysiöeryś	wymysiöeryś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+20	ny	ny	PART	_	Polarity=Neg	18	advmod	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 27
+# text = Idy śpröh ej łanik, wen zy błȧjt gykuzt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Idy	ider	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	2	det	_	_
+2	śpröh	śpröh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ej	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	łanik	łanik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	wen	wen	SCONJ	_	_	9	mark	_	_
+7	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	błȧjt	błȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	gykuzt	kuza	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	4	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 28
+# text = Diöh fjyr mönda wüwer cyzomakuma ȧn wer hon wymysiöeryś gykuzt ȧn ferśidnikjy teksta kenagyłjyt, ejwerat ȧn weter fercyłt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Diöh	diöh	ADP	_	_	3	case	_	_
+2	fjyr	fjyr	NUM	_	_	3	nummod	_	_
+3	mönda	mönda	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	obl	_	_
+4-5	wüwer	_	_	_	_	_	_	_	_
+4	wü	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	aux	_	_
+5	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+6	cyzomakuma	cyzomakuma	VERB	_	VerbForm=Inf	0	root	_	_
+7	ȧn	ȧn	CCONJ	_	_	11	cc	_	_
+8	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+9	hon	hon	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	wymysiöeryś	wymysiöeryś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+11	gykuzt	kuza	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	6	conj	_	_
+12	ȧn	ȧn	CCONJ	_	_	15	cc	_	_
+13	ferśidnikjy	ferśidnik	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	14	advmod	_	_
+14	teksta	tekst	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	obj	_	_
+15	kenagyłjyt	kenałjyn	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	11	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	ejwerat	ejwerata	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	15	conj	_	_
+18	ȧn	ȧn	CCONJ	_	_	20	cc	_	_
+19	weter	weter	ADV	_	Degree=Pos	20	advmod	_	_
+20	fercyłt	fercyła	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	17	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 29
+# text = Zej kuzt myt mjyr hefa wymysiöeryś, ȧn zej łjyt mih wymysiöejer łidła zyngja.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Zej	zej	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	kuzt	kuza	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	myt	myt	ADP	_	_	4	case	_	_
+4	mjyr	mjyr	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
+5	hefa	hefa	ADV	_	Degree=Pos	2	advmod	_	_
+6	wymysiöeryś	wymysiöeryś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	ȧn	ȧn	CCONJ	_	_	10	cc	_	_
+9	zej	zej	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	łjyt	łjyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+11	mih	yhy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+12	wymysiöejer	wymysiöejer	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Person=1	13	advmod	_	_
+13	łidła	łidła	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	14	nsubj	_	_
+14	zyngja	zyngja	VERB	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 30
+# text = Diöt köma mȧkja, büwa, śtinda oły y dam zol.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Diöt	diöt	ADV	_	Degree=Pos	2	advmod	_	_
+2	köma	kuma	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mȧkja	mȧkja	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	büwa	büw	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	śtinda	śtejn	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+8	oły	oły	DET	_	Case=Nom|Number=Plur|PronType=Tot	7	nsubj	_	_
+9	y	y	ADP	_	_	11	case	_	_
+10	dam	dar	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem,Rel	11	det	_	_
+11	zol	zol	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 31
+# text = Wen s’rȧnt, mȧ mü inda ȧ parabli myt zejh mytnama, bo, wen mȧ’s ny nymt, ej’ȧ ganc nos ȧn nöhta wjyd’ȧ ferkiłt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wen	wen	SCONJ	_	_	3	mark	_	_
+2	s’	ejs	PRON	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+3	rȧnt	rȧnn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	mȧ	mȧ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	12	nsubj	_	_
+6	mü	müsa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+7	inda	inda	ADV	_	Degree=Pos	12	advmod	_	_
+8	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	9	det	_	_
+9	parabli	parabli	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+10	myt	myt	ADP	_	_	11	case	_	_
+11	zejh	zejh	PRON	_	Case=Dat|Person=3|PronType=Prs|Reflex=Yes	12	obl	_	_
+12	mytnama	mytnama	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	bo	bo	SCONJ	_	_	30	mark	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	wen	wen	SCONJ	_	_	25	mark	_	_
+17	mȧ	mȧ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	20	nsubj	_	SpaceAfter=No
+18	’s	ejs	PRON	_	Case=Acc|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	_	_
+19	ny	ny	PART	_	Polarity=Neg	20	advmod	_	_
+20	nymt	nama	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	ej	zȧjn	AUX	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing	25	cop	_	SpaceAfter=No
+23	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+24	ganc	ganc	ADV	_	Degree=Pos	25	advmod	_	_
+25	nos	nos	ADJ	_	Degree=Pos|Variant=Short	12	advcl	_	_
+26	ȧn	ȧn	CCONJ	_	_	30	cc	_	_
+27	nöhta	nöht	ADV	_	Degree=Pos	30	advmod	_	_
+28	wjyd	wada	AUX	_	_	30	aux	_	SpaceAfter=No
+29	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	ferkiłt	ferkiła	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	25	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 32
+# text = Hoüt s’mügjys hot yh ȧ online-trof gyhot, wu yh ho gykuzt fur wymysiöeryśa śpröh: do dos wün dy jyśta zidlyn, wo zy hon dy śpröh myta mytgybröht.
+# text_genre = grammar
+# text_source = "S’Łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt"
+1	Hoüt	hoüt	ADV	_	Degree=Pos	9	advmod	_	_
+2	s’mügjys	s’mügjys	ADV	_	Degree=Pos	9	advmod	_	_
+3	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	aux	_	_
+4	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+5	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+6	online	online	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	compound	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
+8	trof	trof	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+9	gyhot	hon	AUX	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	wu	wu	ADV	_	Degree=Pos|PronType=Int	14	mark	_	_
+12	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	ho	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	_
+14	gykuzt	kuza	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	9	advcl	_	_
+15-16	fur	_	_	_	_	_	_	_	_
+15	fu	fu	ADP	_	_	18	case	_	_
+16	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+17	wymysiöeryśa	wymysiöeryś	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	_
+18	śpröh	śpröh	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+19	:	:	PUNCT	_	_	25	punct	_	_
+20	do	do	SCONJ	_	_	25	mark	_	_
+21	dos	dar	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	25	nsubj	_	_
+22	wün	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	cop	_	_
+23	dy	der	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+24	jyśta	jyśter	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|NumType=Ord	25	amod	_	_
+25	zidlyn	zidler	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	ccomp	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	34	punct	_	_
+27	wo	wo	PRON	_	ExtPos=PRON|PronType=Int,Rel	34	nsubj	_	_
+28	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=3|PronType=Prs	27	fixed	_	_
+29	hon	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+30	dy	der	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
+31	śpröh	śpröh	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	34	obj	_	_
+32-33	myta	_	_	_	_	_	_	_	_
+32	myt	myt	ADP	_	_	33	case	_	_
+33	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	obl	_	_
+34	mytgybröht	mytbrengja	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	25	advcl	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 33
+# text = Yh mü füt nö yhta łön ufs ander möł.
+# text_genre = grammar
+# text_source = "S’Łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt"
+1	Yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+2	mü	müsa	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	_
+3	füt	füt	PART	_	_	6	discourse	_	_
+4	nö	nö	ADV	_	Degree=Pos	6	advmod	_	_
+5	yhta	yhta	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	6	obj	_	_
+6	łön	łön	VERB	_	VerbForm=Inf	0	root	_	_
+7-8	ufs	_	_	_	_	_	_	_	_
+7	uf	uf	ADP	_	_	10	case	_	_
+8	s	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+9	ander	ander	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	möł	möł	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 34
+# text = Yhy fjyder mih ufȧ oütabüs, bo’ȧ fjet y piöer minüta o.
+# text_genre = grammar
+# text_source = "S’Łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	fjyder	fjydyn	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	mih	mih	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
+4-5	ufȧ	_	_	_	_	_	_	_	_
+4	uf	uf	ADP	_	_	6	case	_	_
+5	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+6	oütabüs	oütabüs	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	bo	bo	SCONJ	_	_	10	mark	_	SpaceAfter=No
+9	’ȧ	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	fjet	fiöen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+11	y	y	ADP	_	_	13	case	_	_
+12	piöer	piöer	DET	_	Case=Dat|Number=Plur|PronType=Ind	13	nmod	_	_
+13	minüta	minüt	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	_
+14	o	o	ADP	_	_	10	compound:prt	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 35
+# text = Wizawi fur kyh wiöe der śtoł, diöt hüłda zy dy fihjyn, s’mȧsts ki.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Wizawi	wizawi	ADP	_	_	4	case	_	_
+2-3	fur	_	_	_	_	_	_	_	_
+2	fu	fu	ADP	_	_	4	case	_	_
+3	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	kyh	kyh	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	_
+5	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	śtoł	śtoł	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	diöt	diöt	ADV	_	Degree=Pos	10	advmod	_	_
+10	hüłda	hałda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	parataxis	_	_
+11	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+12	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	13	det	_	_
+13	fihjyn	fih	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	s’mȧsts	s’mȧsts	ADV	_	Degree=Pos	16	advmod	_	_
+16	ki	kü	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	13	appos	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 36
+# text = Wymysoü ej ȧ kliny śtot, wo zy łȧjt ufum grancłand fu Śłyz ȧn Klinpöłn, grod yr mytułsta wȧg cwyśa Byłc-Bejł ȧn Oüswynca.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Wymysoü	Wymysoü	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	ej	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	5	det	_	_
+4	kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	śtot	śtot	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	wo	wo	PRON	_	ExtPos=PRON|PronType=Int,Rel	9	nsubj	_	_
+8	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	fixed	_	_
+9	łȧjt	łejgja	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+10-11	ufum	_	_	_	_	_	_	_	_
+10	uf	uf	ADP	_	_	12	case	_	_
+11	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+12	grancłand	grancłand	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	9	obl	_	_
+13	fu	fu	ADP	_	_	14	case	_	_
+14	Śłyz	Śłyz	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	12	nmod	_	_
+15	ȧn	ȧn	CCONJ	_	_	16	cc	_	_
+16	Klinpöłn	Klinpöłn	PROPN	_	_	14	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	grod	grod	ADV	_	Degree=Pos	21	advmod	_	_
+19-20	yr	_	_	_	_	_	_	_	_
+19	y	y	ADP	_	_	21	case	_	_
+20	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	mytułsta	mytuł	ADJ	_	Case=Dat|Degree=Sup|Gender=Masc	22	amod	_	_
+22	wȧg	wȧg	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	12	appos	_	_
+23	cwyśa	cwyśa	ADP	_	_	24	case	_	_
+24	Byłc	Byłc	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	Bejł	Bejł	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	24	flat:name	_	_
+27	ȧn	ȧn	CCONJ	_	_	28	cc	_	_
+28	Oüswynca	Oüswynca	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 37
+# text = No do dy śtomst oü fum hymuł roüs.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	No	no	PART	_	ExtPos=PART	3	discourse	_	_
+2	do	do	PART	_	_	1	fixed	_	_
+3	dy	du	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	śtomst	śtoma	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	oü	oü	ADV	_	Degree=Pos	4	advmod	_	_
+6-7	fum	_	_	_	_	_	_	_	_
+6	fu	fu	ADP	_	_	8	case	_	_
+7	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	hymuł	hymuł	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+9	roüs	roüs	ADV	_	Degree=Pos	4	compound	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Dy zułst den zunaundergang hon.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dy	du	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
+2	zułst	zuła	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	den	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	zunaundergang	zunaundergang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
+5	hon	hon	AUX	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 39
+# text = Zy kuza hefa, do diöt dy hamyt ej, wu zȧjn dy grywyn fu ynzyn fürfatyn.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	kuza	kuza	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hefa	hefa	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	do	do	SCONJ	_	_	8	mark	_	_
+6	diöt	diöt	ADV	_	Degree=Pos	8	advmod	_	_
+7	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	hamyt	hamyt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	_
+9	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	wu	wu	ADV	_	Degree=Pos|PronType=Int	14	advmod	_	_
+12	zȧjn	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+13	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	14	det	_	_
+14	grywyn	grob	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	8	advcl	_	_
+15	fu	fu	ADP	_	_	17	case	_	_
+16	ynzyn	ynzer	DET	_	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	17	det	_	_
+17	fürfatyn	fürfat	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 40
+# text = Kyndyn zuła mer fercȧjn, do’h ho dos bihła y ȧm grusa menća gydedykjyt.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Kyndyn	kynd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+2	zuła	zuła	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	mer	yhy	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl	_	_
+4	fercȧjn	fercȧjn	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	15	punct	_	_
+6	do	do	SCONJ	_	_	15	mark	_	SpaceAfter=No
+7	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+8	ho	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	_
+9	dos	dar	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	_
+10	bihła	bihła	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	15	obj	_	_
+11	y	y	ADP	_	_	14	case	_	_
+12	ȧm	ȧ	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	14	det	_	_
+13	grusa	grus	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	menća	menć	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	15	obl	_	_
+15	gydedykjyt	dedykja	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	4	ccomp	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 41
+# text = Dy boȧytyn śłyngja jyr öpfer uf ȧmöł, ony koüyn.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	boȧytyn	boȧyter	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+3	śłyngja	śłyngja	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	jyr	jyr	DET	_	Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
+5	öpfer	öpfer	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+6	uf	uf	ADP	_	_	7	case	_	_
+7	ȧmöł	ȧmöł	ADV	_	Degree=Pos	3	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	ony	ony	ADV	_	Degree=Pos	10	advmod	_	_
+10	koüyn	koüyn	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 42
+# text = Möłt mer ȧn barüś.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Möłt	möła	VERB	_	Mood=Imp|Number=Plur|VerbForm=Fin	0	root	_	_
+2	mer	yhy	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	ȧn	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	4	det	_	_
+4	barüś	barüś	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	iobj	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 43
+# text = Gejźe ȧn śoü der źe dy ruza wejder o.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1-2	Gejźe	_	_	_	_	_	_	_	_
+1	Gej	gejn	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	0	root	_	_
+2	źe	źe	PART	_	_	1	advmod	_	_
+3	ȧn	ȧn	CCONJ	_	_	4	cc	_	_
+4	śoü	śoün	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	1	conj	_	_
+5	der	dü	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	obl	_	_
+6	źe	źe	PART	_	_	4	advmod	_	_
+7	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
+8	ruza	ruz	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+9	wejder	wejder	ADV	_	Degree=Pos	4	advmod	_	_
+10	o	o	ADP	_	_	4	compound:prt	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = Yh wȧz mȧj ejwerkunst yn grusa łoüta ȧn yh fret zy, op zy fu mem obrozła strah hota.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	wȧz	wȧjza	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mȧj	mȧj	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+4	ejwerkunst	ejwerkunst	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5-6	yn	_	_	_	_	_	_	_	_
+5	y	y	ADP	_	_	8	case	_	_
+6	yn	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	8	det	_	_
+7	grusa	grus	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	8	amod	_	_
+8	łoüta	łoüt	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
+9	ȧn	ȧn	CCONJ	_	_	11	cc	_	_
+10	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	fret	fren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
+12	zy	zej	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	11	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	20	punct	_	_
+14	op	op	SCONJ	_	_	20	mark	_	_
+15	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	20	nsubj	_	_
+16	fu	fu	ADP	_	_	18	case	_	_
+17	mem	mȧj	DET	_	Case=Dat|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	det	_	_
+18	obrozła	obrozła	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	20	obl	_	_
+19	strah	strah	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+20	hota	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 45
+# text = Ufs gyłyk fjys ozan fur asteroid, ȧ tjykjyśer diktator his zȧj fulk under tutśtröf, zih yłropejyś ocycin.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1-2	Ufs	_	_	_	_	_	_	_	_
+1	Uf	uf	ADP	_	_	3	case	_	_
+2	s	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	gyłyk	gyłyk	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+4-5	fjys	_	_	_	_	_	_	_	_
+4	fjyr	fjyr	ADP	_	_	6	case	_	_
+5	s	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
+6	ozan	ozan	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	nmod	_	_
+7-8	fur	_	_	_	_	_	_	_	_
+7	fu	fu	ADP	_	_	9	case	_	_
+8	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	asteroid	asteroid	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	3	punct	_	_
+11	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	12	det	_	_
+12	tjykjyśer	tjykjyś	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	diktator	diktator	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+14	his	hȧsa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	zȧj	zȧj	DET	_	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
+16	fulk	fulk	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+17-18	under	_	_	_	_	_	_	_	_
+17	under	under	ADP	_	_	19	case	_	_
+18	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	tutśtröf	tutśtröf	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	zih	zih	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
+22	yłropejyś	yłropejyś	ADV	_	Degree=Pos	23	advmod	_	_
+23	ocycin	ocin	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 46
+# text = War bysty? – fret der Kliny Fjyśt – Dy byst ju zjyr śejn.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	War	war	PRON	_	Case=Nom|Number=Sing|PronType=Int,Rel	6	ccomp	_	_
+2-3	bysty	_	_	_	_	_	_	_	SpaceAfter=No
+2	byst	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	cop	_	_
+3	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+4	?	?	PUNCT	_	_	1	punct	_	_
+5	–	–	PUNCT	_	_	6	punct	_	_
+6	fret	fren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+7	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	Kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	compound	_	_
+9	Fjyśt	fjyśt	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+10	–	–	PUNCT	_	_	15	punct	_	_
+11	Dy	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
+12	byst	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	cop	_	_
+13	ju	ju	ADV	_	Degree=Pos	15	advmod	_	_
+14	zjyr	zjyr	ADV	_	Degree=Pos	15	advmod	_	_
+15	śejn	śejn	ADJ	_	Degree=Pos|Variant=Short	6	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 47
+# text = Dy ofang fur regjonaltancgrüp y Wymysoü hon jyr wücułn śun yn 20-ta jün by Pöłnscȧjta.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Dy	dy	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	ofang	ofang	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3-4	fur	_	_	_	_	_	_	_	_
+3	fu	fu	ADP	_	_	5	case	_	_
+4	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	regjonaltancgrüp	regjonaltancgrüp	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nmod	_	_
+6	y	y	ADP	_	_	7	case	_	_
+7	Wymysoü	Wymysoü	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	5	nmod	_	_
+8	hon	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	jyr	jyr	DET	_	Case=Acc|Gender=Fem|Gender[psor]=Fem|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
+10	wücułn	wücuł	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_
+11	śun	śun	ADV	_	Degree=Pos	8	advmod	_	_
+12-13	yn	_	_	_	_	_	_	_	_
+12	y	y	ADP	_	_	15	case	_	_
+13	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	15	det	_	_
+14	20-ta	cwencigst	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Plur|NumType=Ord	15	amod	_	_
+15	jün	jür	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	8	obl	_	_
+16	by	by	ADP	_	_	17	case	_	_
+17	Pöłnscȧjta	Pöłnscȧjta	PROPN	_	Case=Dat|Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 48
+# text = Dü byst ju fjyr mejh jok ȧ kliner büw, ȧ kliner büw wi hundyt toüzyt ander kliny büwa.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+2	byst	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	_
+3	ju	ju	ADV	_	Degree=Pos	9	advmod	_	_
+4	fjyr	fjyr	ADP	_	_	5	case	_	_
+5	mejh	yhy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+6	jok	jok	ADV	_	Degree=Pos	9	advmod	_	_
+7	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	9	det	_	_
+8	kliner	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	büw	büw	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	13	det	_	_
+12	kliner	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	büw	büw	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	_
+14	wi	wi	ADV	_	Degree=Pos|PronType=Int	19	mark	_	_
+15	hundyt	hundyt	NUM	_	Case=Nom|Number=Plur|NumType=Card	16	nummod	_	_
+16	toüzyt	toüzyt	NUM	_	Case=Nom|Number=Plur|NumType=Card	19	nummod	_	_
+17	ander	ander	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	19	det	_	_
+18	kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	_
+19	büwa	büw	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	13	acl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 49
+# text = Zisty, wosfer ȧ güt gydyhtnys ho’h?
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1-2	Zisty	_	_	_	_	_	_	_	SpaceAfter=No
+1	zist	zan	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	wosfer	wosfer	DET	_	Case=Acc|ExtPos=DET|Number=Sing|PronType=Int,Rel	7	det	_	_
+5	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	4	fixed	_	_
+6	güt	güt	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
+7	gydyhtnys	gydyhtnys	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+8	ho	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+9	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 50
+# text = Yhy ho ȧn güta röt fjyr dejh.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ho	hon	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ȧn	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	5	det	_	_
+4	güta	güt	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
+5	röt	röt	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+6	fjyr	fjyr	ADP	_	_	7	case	_	_
+7	dejh	dü	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 51
+# text = Felün yr wełt ȧn ganc ȧłȧn zos yh ym mjer uf huhum śtȧn; der mönd kom roüs hyndrum gybjyg, śłyfyt mejh ȧj, wi s’kynd yr wig.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Felün	feljyn	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	8	advcl	_	_
+2-3	yr	_	_	_	_	_	_	_	_
+2	y	y	ADP	_	_	4	case	_	_
+3	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	wełt	wełt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	_
+5	ȧn	ȧn	CCONJ	_	_	7	cc	_	_
+6	ganc	ganc	ADV	_	Degree=Pos	7	advmod	_	_
+7	ȧłȧn	ȧłȧn	ADJ	_	Degree=Pos|Variant=Short	1	conj	_	_
+8	zos	zyca	VERB	_	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+9	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10-11	ym	_	_	_	_	_	_	_	_
+10	y	y	ADP	_	_	12	case	_	_
+11	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mjer	mjer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	obl	_	_
+13	uf	uf	ADP	_	_	15	case	_	_
+14	huhum	huh	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	_
+15	śtȧn	śtȧn	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+16	;	;	PUNCT	_	_	19	punct	_	_
+17	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	mönd	mönd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+19	kom	kuma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+20	roüs	roüs	ADV	_	Degree=Pos	19	compound:prt	_	_
+21-22	hyndrum	_	_	_	_	_	_	_	_
+21	hynder	hynder	ADP	_	_	23	case	_	_
+22	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	gybjyg	gybjyg	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	śłyfyt	śłyfyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	_
+26	mejh	yhy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	25	obj	_	_
+27	ȧj	ȧj	ADV	_	Degree=Pos	25	compound:prt	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	wi	wi	ADV	_	Degree=Pos|PronType=Int	31	mark	_	_
+30	s’	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	31	det	_	SpaceAfter=No
+31	kynd	kynd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	25	orphan	_	_
+32-33	yr	_	_	_	_	_	_	_	_
+32	y	y	ADP	_	_	34	case	_	_
+33	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
+34	wig	wig	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 52
+# text = Dü wyst ju cün mer cyrykkuma ȧn mjyr odanka ȧn yh wa der ȧ gyhȧjmy kȧjt ziöen.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+2	wyst	wada	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	_	_
+3	ju	ju	ADV	_	Degree=Pos	6	advmod	_	_
+4	cün	cy	ADP	_	_	5	case	_	_
+5	mer	yhy	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
+6	cyrykkuma	cyrykkuma	VERB	_	VerbForm=Inf	0	root	_	_
+7	ȧn	ȧn	CCONJ	_	_	9	cc	_	_
+8	mjyr	yhy	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	obl	_	_
+9	odanka	odanka	VERB	_	VerbForm=Inf	6	conj	_	_
+10	ȧn	ȧn	CCONJ	_	_	17	cc	_	_
+11	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+12	wa	wada	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	aux	_	_
+13	der	dü	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	17	obl	_	_
+14	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	16	det	_	_
+15	gyhȧjmy	gyhȧjm	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	kȧjt	kȧjt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+17	ziöen	ziöen	VERB	_	VerbForm=Inf	6	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 53
+# text = Oder nöhta, wi’s wiöe wamer, do gingwer śun ony tihła, mȧkja.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Oder	oder	CCONJ	_	_	10	cc	_	_
+2	nöhta	nöht	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	wi	wi	ADV	_	Degree=Pos|PronType=Int	7	mark	_	SpaceAfter=No
+5	’s	ejs	PRON	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+6	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	wamer	wiöem	ADJ	_	Degree=Cmp|Variant=Short	10	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	do	do	PART	_	_	10	discourse	_	_
+10-11	gingwer	_	_	_	_	_	_	_	_
+10	ging	gejn	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+11	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+12	śun	śun	ADV	_	Degree=Pos	10	advmod	_	_
+13	ony	ony	ADP	_	_	14	case	_	_
+14	tihła	tihła	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obl	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	mȧkja	mȧkja	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	appos	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 54
+# text = Gynoü ȧzu gyśnyct wi dy ruta koroln, oder nö by… underwoh ging zy myt dan Bernstein.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Gynoü	gynoü	ADV	_	Degree=Pos	3	advmod	_	_
+2	ȧzu	ȧzu	ADV	_	Degree=Pos	3	advmod	_	_
+3	gyśnyct	śnyca	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+4	wi	wi	ADV	_	Degree=Pos|PronType=Int	7	mark	_	_
+5	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	ruta	rut	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	koroln	korol	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	oder	oder	CCONJ	_	_	11	cc	_	_
+10	nö	nö	ADV	_	Degree=Pos	11	advmod	_	_
+11	by	by	ADP	_	_	3	orphan	_	SpaceAfter=No
+12	…	…	PUNCT	_	_	11	punct	_	_
+13	underwoh	underwoh	ADV	_	Degree=Pos	14	advmod	_	_
+14	ging	gejn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+15	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+16	myt	myt	ADP	_	_	18	case	_	_
+17	dan	dar	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem,Rel	18	det	_	_
+18	Bernstein	Bernstein	NOUN	_	Case=Acc|Foreign=Yes|Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 55
+# text = Oder mȧj tȧta fercyłt, wi’ȧ ging cyr mama cym Hȧla-Mockja diöt, cym Tobyś, do śtełt’ȧ ȧn wiöen ufum… ufum dah, ufer śoün.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Oder	oder	CCONJ	_	_	4	cc	_	_
+2	mȧj	mȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	tȧta	tȧta	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	fercyłt	fercyła	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	wi	wi	ADV	_	Degree=Pos|PronType=Int	8	mark	_	SpaceAfter=No
+7	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	ging	gejn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
+9-10	cyr	_	_	_	_	_	_	_	_
+9	cy	cy	ADP	_	_	11	case	_	_
+10	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	mama	mama	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+12-13	cym	_	_	_	_	_	_	_	_
+12	cy	cy	ADP	_	_	14	case	_	_
+13	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Hȧla	Hȧla	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+15	-	-	PUNCT	_	_	14	punct	_	SpaceAfter=No
+16	Mockja	Mockja	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	14	flat:name	_	_
+17	diöt	diöt	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	_
+19-20	cym	_	_	_	_	_	_	_	_
+19	cy	cy	ADP	_	_	21	case	_	_
+20	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	Tobyś	Tobyś	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	8	orphan	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	do	do	PART	_	_	24	discourse	_	_
+24	śtełt	śteła	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
+25	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	nsubj	_	_
+26	ȧn	ȧn	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	27	det	_	_
+27	wiöen	wiöen	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+28-29	ufum	_	_	_	_	_	_	_	SpaceAfter=No
+28	uf	uf	ADP	_	_	29	case	_	_
+29	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	32	reparandum	_	_
+30	…	…	PUNCT	_	_	29	punct	_	_
+31-32	ufum	_	_	_	_	_	_	_	_
+31	uf	uf	ADP	_	_	33	case	_	_
+32	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	33	det	_	_
+33	dah	dah	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	24	obl	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	24	punct	_	_
+35-36	ufer	_	_	_	_	_	_	_	_
+35	uf	uf	ADP	_	_	37	case	_	_
+36	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
+37	śoün	śoün	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	24	orphan	_	SpaceAfter=No
+38	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 56
+# text = Wen’ȧ hot ahca jür, müst’ȧ kiöefa brantwȧjn, di oły rüfa ȧn bjyr ȧjkiöefa, nöhta kon’ȧ rymgejn.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wen	wen	SCONJ	_	_	3	mark	_	SpaceAfter=No
+2	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
+4	ahca	ahca	NUM	_	NumForm=Word|NumType=Card	5	nummod	_	_
+5	jür	jür	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	müst	müsa	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No
+8	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	kiöefa	kiöefa	VERB	_	VerbForm=Inf	0	root	_	_
+10	brantwȧjn	brantwȧjn	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	di	dar	DET	_	Case=Acc|Number=Plur|PronType=Dem,Rel	13	det	_	_
+13	oły	oły	DET	_	Case=Acc|Number=Plur|PronType=Tot	14	obj	_	_
+14	rüfa	rüfa	VERB	_	VerbForm=Inf	9	parataxis	_	_
+15	ȧn	ȧn	CCONJ	_	_	17	cc	_	_
+16	bjyr	bjyr	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	ȧjkiöefa	ȧjkiöefa	VERB	_	VerbForm=Inf	9	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	22	punct	_	_
+19	nöhta	nöht	ADV	_	Degree=Pos	22	advmod	_	_
+20	kon	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux	_	SpaceAfter=No
+21	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	rymgejn	rymgejn	VERB	_	VerbForm=Inf	9	advcl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 57
+# text = To dos wün dy ćjyrkja?
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	To	to	PART	_	_	5	discourse	_	_
+2	dos	dar	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem,Rel	5	nsubj	_	_
+3	wün	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	dy	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ćjyrkja	ćjyrkja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 58
+# text = Yhy wułd dos zan yta.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	wułd	weła	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	dos	dar	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem,Rel	4	obj	_	_
+4	zan	zan	VERB	_	VerbForm=Inf	0	root	_	_
+5	yta	yta	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 59
+# text = No, ȧna zy nöma giełd fum Krzyżanowski, no zy bügta, zy łȧjn dos giełd.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	_	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ȧna	ȧna	CCONJ	_	_	5	cc	_	_
+4	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	nöma	nama	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	giełd	giełd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7-8	fum	_	_	_	_	_	_	_	_
+7	fu	fu	ADP	_	_	9	case	_	_
+8	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+9	Krzyżanowski	Krzyżanowski	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	no	no	PART	_	_	13	discourse	_	_
+12	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	13	nsubj	_	_
+13	bügta	bügja	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	16	nsubj	_	_
+16	łȧjn	łȧjn	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	_
+17	dos	dar	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	det	_	_
+18	giełd	giełd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 60
+# text = No oder yhy wiöe diöt ny, yhy wiöe inda byr müter dyham.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	_	4	discourse	_	_
+2	oder	oder	CCONJ	_	_	4	cc	_	_
+3	yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+4	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	diöt	diöt	ADV	_	Degree=Pos	4	advmod	_	_
+6	ny	ny	PART	_	Polarity=Neg	4	advmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+9	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
+10	inda	inda	ADV	_	Degree=Pos	9	advmod	_	_
+11-12	byr	_	_	_	_	_	_	_	_
+11	by	by	ADP	_	_	13	case	_	_
+12	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	müter	müter	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	_
+14	dyham	dyham	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 61
+# text = Nöhta ziöet mer di śnjyh: „Wȧsty wos, müter, yhy gej cyryk cy mem, men ełdyn, bo dü kuzt, jyr kuzt fön mer ołys śłȧhty”.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Nöhta	nöht	ADV	_	Degree=Pos	2	advmod	_	_
+2	ziöet	ziöen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	mer	yhy	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	obl:arg	_	_
+4	di	dar	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	5	det	_	_
+5	śnjyh	śnjyh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
+6	:	:	PUNCT	_	_	8	punct	_	_
+7	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8-9	Wȧsty	_	_	_	_	_	_	_	_
+8	Wȧst	wysa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+9	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+10	wos	wos	PRON	_	Case=Acc|PronType=Int,Rel	8	obj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	müter	müter	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	gej	gejn	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+16	cyryk	cyryk	ADV	_	Degree=Pos	15	advmod	_	_
+17	cy	cy	ADP	_	_	21	case	_	_
+18	mem	mȧj	DET	_	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	reparandum	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	men	mȧj	DET	_	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det	_	_
+21	ełdyn	ełdermenć	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	15	punct	_	_
+23	bo	bo	SCONJ	_	_	28	mark	_	_
+24	dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	_	_
+25	kuzt	kuza	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	28	reparandum	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	jyr	jyr	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	28	nsubj	_	_
+28	kuzt	kuza	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+29	fön	fu	ADP	_	_	30	case	_	_
+30	mer	yhy	PRON	_	Case=Dat|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	28	obl	_	_
+31	ołys	ołys	PRON	_	Case=Acc|Number=Sing|PronType=Tot	32	det	_	_
+32	śłȧhty	śłȧht	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	28	obj	_	SpaceAfter=No
+33	”	”	PUNCT	_	_	8	punct	_	SpaceAfter=No
+34	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 62
+# text = No to hotwer ȧn oficer, ȧ dy müter, di kund’um śmȧjhln.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	ExtPos=PART	3	discourse	_	_
+2	to	to	PART	_	_	1	fixed	_	_
+3-4	hotwer	_	_	_	_	_	_	_	_
+3	hot	hon	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+5	ȧn	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+6	oficer	oficer	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	ȧ	ȧ	CCONJ	_	_	10	cc	_	_
+9	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	müter	müter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	15	orphan	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	di	dar	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	15	nsubj	_	_
+13	kund	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	SpaceAfter=No
+14	’um	har	PRON	_	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obl:arg	_	_
+15	śmȧjhln	śmȧjhln	VERB	_	VerbForm=Inf	3	parataxis	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 63
+# text = Ȧna wjyr gingja bȧdy y ȧ śül.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ȧna	ȧna	CCONJ	_	_	3	cc	_	_
+2	wjyr	wjyr	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	gingja	gejn	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+4	bȧdy	bȧdy	DET	_	Case=Nom|Number=Plur|NumType=Card|PronType=Tot	2	appos	_	_
+5	y	y	ADP	_	_	6	case	_	_
+6	ȧ	ȧ	NUM	_	Case=Acc|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	nummod	_	_
+7	śül	śül	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 64
+# text = Wi dy Doüća dö wün, wi zy köma dö nȧj, ȧn yh hot ȧn feter y Frankrȧjh.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wi	wi	ADV	_	Degree=Pos|PronType=Int	5	mark	_	_
+2	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+3	Doüća	Doüć	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+4	dö	dö	ADV	_	Degree=Pos	5	advmod	_	_
+5	wün	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	wi	wi	ADV	_	Degree=Pos|PronType=Int	9	mark	_	_
+8	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	9	nsubj	_	_
+9	köma	kuma	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	advcl	_	_
+10	dö	dö	ADV	_	Degree=Pos	9	advmod	_	_
+11	nȧj	nȧj	PART	_	_	9	discourse	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	ȧn	ȧn	CCONJ	_	_	15	cc	_	_
+14	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
+15	hot	hon	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+16	ȧn	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	17	det	_	_
+17	feter	feter	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+18	y	y	ADP	_	_	19	case	_	_
+19	Frankrȧjh	Frankrȧjh	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 65
+# text = Ȧn cyderjyśt wün zy y Wymysdiöf, oder diöt höt’s’ȧ ny gyfoła, dos hon fercyłt di ełder łoüt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ȧn	ȧn	CCONJ	_	_	3	cc	_	_
+2	cyderjyśt	cyderjyśt	ADV	_	Degree=Pos	3	advmod	_	_
+3	wün	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
+5	y	y	ADP	_	_	6	case	_	_
+6	Wymysdiöf	Wymysdiöf	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	oder	oder	CCONJ	_	_	14	cc	_	_
+9	diöt	diöt	ADV	_	Degree=Pos	14	advmod	_	_
+10	höt	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	SpaceAfter=No
+11	’s	ejs	PRON	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing|Person=2|PronType=Prs	14	nsubj	_	SpaceAfter=No
+12	’ȧ	har	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+13	ny	ny	PART	_	Polarity=Neg	14	advmod	_	_
+14	gyfoła	gyfoła	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	3	conj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	dos	dar	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	18	det	_	_
+17	hon	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+18	fercyłt	fercyła	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	3	parataxis	_	_
+19	di	dar	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	21	det	_	_
+20	ełder	ałd	ADJ	_	Case=Nom|Degree=Cmp|Number=Plur	21	amod	_	_
+21	łoüt	łoüt	NOUN	_	Case=Nom|Number=Plur	18	nsubj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 66
+# text = No dö wiöe ȧmöł gywast ȧ puś, wȧst?
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	_	5	discourse	_	_
+2	dö	dö	ADV	_	Degree=Pos	5	advmod	_	_
+3	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+4	ȧmöł	ȧmöł	ADV	_	Degree=Pos	5	advmod	_	_
+5	gywast	zȧjn	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+6	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
+7	puś	puś	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	wȧst	wysa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 67
+# text = Nȧ-nȧ, der Bibiöewjec wiöe ny gryser.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Nȧ-nȧ	nȧ-nȧ	PART	_	_	7	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	Bibiöewjec	Bibiöewjec	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+5	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+6	ny	ny	PART	_	Polarity=Neg	7	advmod	_	_
+7	gryser	grus	ADJ	_	Degree=Cmp|Variant=Short	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 68
+# text = Wi’h ging myta ys woser, zy hułda mih ȧbysła, bo wȧsty, yh kund ny śwyma, h’kon hoüt, bocy hoüt ny śwyma.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wi	wi	ADV	_	Degree=Pos|PronType=Int	3	mark	_	SpaceAfter=No
+2	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+3	ging	gejn	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	_
+4-5	myta	_	_	_	_	_	_	_	_
+4	myt	myt	ADP	_	_	5	case	_	_
+5	yn	der	DET	_	Case=Dat|Definite=Def|Number=Plur|PronType=Art	3	obl	_	_
+6-7	ys	_	_	_	_	_	_	_	_
+6	y	y	ADP	_	_	8	case	_	_
+7	s	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+8	woser	woser	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	3	punct	_	_
+10	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+11	hułda	hałda	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	mih	yhy	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	ȧbysła	ȧbysła	ADV	_	Degree=Pos	11	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	_
+15	bo	bo	SCONJ	_	_	16	mark	_	_
+16-17	wȧsty	_	_	_	_	_	_	_	SpaceAfter=No
+16	wȧst	wysa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	parataxis	_	_
+17	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	_
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	22	nsubj	_	_
+20	kund	kyna	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	22	aux	_	_
+21	ny	ny	PART	_	Polarity=Neg	22	advmod	_	_
+22	śwyma	śwyma	VERB	_	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	_
+24	h’	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	SpaceAfter=No
+25	kon	kyna	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	31	aux	_	_
+26	hoüt	hoüt	ADV	_	Degree=Pos	31	advmod	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	bocy	bocy	ADP	_	_	29	case	_	_
+29	hoüt	hoüt	ADV	_	Degree=Pos	26	discourse	_	_
+30	ny	ny	PART	_	Polarity=Neg	31	advmod	_	_
+31	śwyma	śwyma	VERB	_	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 69
+# text = Der Edward Kennedy ej gyśtiörwa.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Edward	Edward	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+3	Kennedy	Kennedy	PROPN	_	Case=Nom|Number=Sing	2	flat:name	_	_
+4	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	gyśtiörwa	śtarwa	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 70
+# text = Mȧj hyt ej oü gyboüt fu cigln myta henda.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Mȧj	mȧj	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	hyt	hyt	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	oü	oü	ADV	_	Degree=Pos	5	advmod	_	_
+5	gyboüt	boüyn	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+6	fu	fu	ADP	_	_	7	case	_	_
+7	cigln	cigl	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	_
+8-9	myta	_	_	_	_	_	_	_	_
+8	myt	myt	ADP	_	_	10	case	_	_
+9	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	henda	hand	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 71
+# text = Dy gyśiht fun jyśta ata, wo zy hon zułd dy wymysiöeryśy śpröh dokumentjyn, śtomt fun Pöłnscȧjta.
+# text_genre = encyclopedia
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gyśiht	gyśiht	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+3-4	fun	_	_	_	_	_	_	_	_
+3	fu	fu	ADP	_	_	5	case	_	_
+4	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	jyśta	jyśter	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|NumType=Ord	6	amod	_	_
+6	ata	at	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	15	punct	_	_
+8	wo	wo	PRON	_	ExtPos=PRON|PronType=Int,Rel	15	nsubj	_	_
+9	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	8	fixed	_	_
+10	hon	hon	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux	_	_
+11	zułd	zuła	AUX	_	Aspect=Perf|Tense=Past|VerbForm=Part	15	aux	_	_
+12	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	wymysiöeryśy	wymysiöeryś	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	śpröh	śpröh	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+15	dokumentjyn	dokumentjyn	VERB	_	VerbForm=Inf	6	advcl:relcl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	śtomt	śtoma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+18-19	fun	_	_	_	_	_	_	_	_
+18	fu	fu	ADP	_	_	20	case	_	_
+19	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	Pöłnscȧjta	Pöłnscȧjta	PROPN	_	Case=Dat|Gender=Fem|Number=Plur	17	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 72
+# text = Oder andyśt nö, wos ej dos do di, di ryd wymysiöeryśy, do dy łoüt yta zih interesjyn.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Oder	oder	CCONJ	_	_	2	cc	_	_
+2	andyśt	andyśt	ADV	_	_	5	discourse	_	_
+3	nö	nö	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	wos	wos	PRON	_	Case=Nom|PronType=Int,Rel	0	root	_	_
+6	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	dos	dar	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+8	do	do	SCONJ	_	_	12	mark	_	_
+9	di	dar	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	di	dar	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+12	ryd	ryd	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	dislocated	_	_
+13	wymysiöeryśy	wymysiöeryś	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	20	punct	_	_
+15	do	do	SCONJ	_	_	20	mark	_	_
+16	dy	der	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	17	det	_	_
+17	łoüt	łoüt	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	_
+18	yta	yta	ADV	_	Degree=Pos	20	advmod	_	_
+19	zih	zih	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
+20	interesjyn	interesjyn	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 73
+# text = Ufum grancłand köma dy kłȧdyn ȧny ufs ander.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1-2	Ufum	_	_	_	_	_	_	_	_
+1	uf	uf	ADP	_	_	3	case	_	_
+2	ym	der	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	grancłand	grancłand	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
+4	köma	kuma	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	dy	der	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
+6	kłȧdyn	kłȧd	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+7	ȧny	ȧn	PRON	_	Case=Nom|Number=Sing|NumType=Card|PronType=Ind	6	nmod	_	_
+8-9	ufs	_	_	_	_	_	_	_	_
+8	uf	uf	ADP	_	_	10	case	_	_
+9	s	der	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	ander	ander	PRON	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|PronType=Ind	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 74
+# text = Zy kuza oü fun śotyśa ozidlyn, wo zy zuła śpyter uf Wymysoü zȧjn kuma.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	kuza	kuza	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	oü	oü	ADV	_	Degree=Pos	2	advmod	_	_
+4-5	fun	_	_	_	_	_	_	_	_
+4	fu	fu	ADP	_	_	7	case	_	_
+5	yn	der	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	śotyśa	śotyś	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	ozidlyn	ozidler	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	16	punct	_	_
+9	wo	wo	PRON	_	ExtPos=PRON|PronType=Int,Rel	16	nsubj	_	_
+10	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	9	fixed	_	_
+11	zuła	zuła	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+12	śpyter	śpyt	ADV	_	Degree=Cmp	16	advmod	_	_
+13	uf	uf	ADP	_	_	14	case	_	_
+14	Wymysoü	Wymysoü	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+15	zȧjn	zȧjn	AUX	_	VerbForm=Inf	16	aux	_	_
+16	kuma	kuma	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	2	advcl:relcl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 75
+# text = Dy wymysiöeryśy śpröh höt dy Wymysiöejyn fum ofang andyśt gymaht.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Dy	der	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	wymysiöeryśy	wymysiöeryś	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+3	śpröh	śpröh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+4	höt	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	_
+5	dy	der	DET	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	Wymysiöejyn	Wymysiöejer	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
+7-8	fum	_	_	_	_	_	_	_	_
+7	fu	fu	ADP	_	_	9	case	_	_
+8	ym	der	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ofang	ofang	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
+10	andyśt	andyśt	ADJ	_	Degree=Pos|Variant=Short	11	xcomp	_	_
+11	gymaht	maha	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Inf	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 76
+# text = No do der foter handułt, no to hot’ȧ giełd.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	ExtPos=PART	5	discourse	_	_
+2	do	do	PART	_	_	1	fixed	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	foter	foter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	handułt	handułn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	no	no	PART	_	ExtPos=PART	9	discourse	_	_
+8	to	to	PART	_	_	7	fixed	_	_
+9	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
+10	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+11	giełd	giełd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 77
+# text = No cy yns wiöe ȧ mȧkja, ȧ dinstmiöed ȧn zy hot ȧ kynd, ȧ kynd.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	_	4	discourse	_	_
+2	cy	cy	ADP	_	_	3	case	_	_
+3	yns	wjyr	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+4	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+6	mȧkja	mȧkja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	9	det	_	_
+9	dinstmiöed	dinstmiöed	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	_
+10	ȧn	ȧn	CCONJ	_	_	13	cc	_	_
+11	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
+13	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	det	_	_
+14	kynd	kynd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	17	det	_	_
+17	kynd	kynd	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	appos	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 78
+# text = Der kjyhabytner zoh dos, dar łaht ȧzu ȧn der fiöer byśtenik fret’ȧ, fu wo’ȧ łaht.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	kjyhabytner	kjyhabytner	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	zoh	zan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	dos	dar	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	dar	dar	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	nsubj	_	_
+7	łaht	łaha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
+8	ȧzu	ȧzu	ADV	_	Degree=Pos	7	advmod	_	_
+9	ȧn	ȧn	CCONJ	_	_	13	cc	_	_
+10	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	fiöer	fiöer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	byśtenik	byśtenik	ADV	_	Degree=Pos	13	advmod	_	_
+13	fret	fren	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
+14	’ȧ	har	PRON	_	Case=Acc|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	fu	fu	ADP	_	_	17	case	_	_
+17	wo	wo	PRON	_	PronType=Int,Rel	19	obl	_	SpaceAfter=No
+18	’ȧ	har	PRON	_	Case=Nom|Clititc=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	łaht	łaha	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+
+# sent_id = 79
+# text = No, wi’h wiöe jyngjer, ging yh nö diöt, mytum rod fü’h.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	No	no	PART	_	_	8	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	wi	wi	ADV	_	Degree=Pos|PronType=Int	6	mark	_	SpaceAfter=No
+4	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	cop	_	_
+6	jyngjer	jung	ADJ	_	Degree=Cmp|Variant=Short	8	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	ging	gejn	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+9	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	nö	nö	ADV	_	Degree=Pos	8	advmod	_	_
+11	diöt	diöt	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13-14	mytum	_	_	_	_	_	_	_	_
+13	myt	myt	ADP	_	_	15	case	_	_
+14	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	rod	rod	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+16	fü	fiöen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	parataxis	_	SpaceAfter=No
+17	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	16	nsubj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 80
+# text = Wjyr hota oü ȧ ołdy hyt.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wjyr	wjyr	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	hota	hon	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+3	oü	oü	ADV	_	Degree=Pos	2	advmod	_	_
+4	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+5	ołdy	ołd	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	hyt	hyt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 81
+# text = Yhy wje nimanda ufa tut ferütȧla, ȧn yh myht śun gejn.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+2	wje	zȧjn	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	aux	_	_
+3	nimanda	nimand	PRON	_	Case=Acc|Number=Sing|PronType=Neg	7	obj	_	_
+4-5	ufa	_	_	_	_	_	_	_	_
+4	uf	uf	ADP	_	_	6	case	_	_
+5	yn	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	tut	tut	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+7	ferütȧla	ferütȧla	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	ȧn	ȧn	CCONJ	_	_	13	cc	_	_
+10	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+11	myht	mygja	AUX	_	Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	aux	_	_
+12	śun	śun	ADV	_	Degree=Pos	13	advmod	_	_
+13	gejn	gejn	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 82
+# text = Ȧ yta wjyn zy weła, do oły zuła kuza, ȧna di ałda kyna, ȧ wifuł zȧjn dar ałdy.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Ȧ	ȧ	PART	_	_	5	discourse	_	_
+2	yta	yta	ADV	_	Degree=Pos	5	advmod	_	_
+3	wjyn	zȧjn	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+4	zy	zej	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	weła	weła	AUX	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	do	do	SCONJ	_	_	10	mark	_	_
+8	oły	oły	DET	_	Case=Nom|Number=Plur|PronType=Tot	10	nsubj	_	_
+9	zuła	zuła	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+10	kuza	kuza	VERB	_	VerbForm=Inf	5	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	15	punct	_	_
+12	ȧna	ȧna	CCONJ	_	_	15	cc	_	_
+13	di	dar	DET	_	Case=Nom|Number=Plur|PronType=Dem	14	det	_	_
+14	ałda	ałd	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	nsubj	_	_
+15	kyna	kyna	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	ȧ	ȧ	CCONJ	_	_	21	cc	_	_
+18	wifuł	wifuł	DET	_	PronType=Ind	21	nsubj	_	_
+19	zȧjn	zȧjn	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+20	dar	dar	DET	_	Case=Gen|Number=Plur|PronType=Dem	21	det	_	_
+21	ałdy	ałdy	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	5	conj	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 83
+# text = Bo dy müst kiöefa fu Błan.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Bo	bo	SCONJ	_	_	4	mark	_	_
+2	dy	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+3	müst	müsa	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	kiöefa	kiöefa	VERB	_	VerbForm=Inf	0	root	_	_
+5	fu	fu	ADP	_	_	6	case	_	_
+6	Błan	Błan	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 84
+# text = Do imyd wje kuma ȧn yhta, yhta oüszeca.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Do	do	SCONJ	_	_	4	mark	_	_
+2	imyd	imyd	PRON	_	Case=Nom|Number=Sing|PronType=Ind	4	nsubj	_	_
+3	wje	zȧjn	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	kuma	kuma	VERB	_	VerbForm=Inf	0	root	_	_
+5	ȧn	ȧn	CCONJ	_	_	9	cc	_	_
+6	yhta	yhta	PRON	_	Case=Acc|PronType=Ind	8	reparandum	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	yhta	yhta	PRON	_	Case=Acc|PronType=Ind	9	obj	_	_
+9	oüszeca	oüszeca	VERB	_	VerbForm=Inf	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 85
+# text = Wen dy ny wjest kyna pönyś kuza, wjesty müsa była wi ȧ hund.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Wen	wen	SCONJ	_	_	7	mark	_	_
+2	dy	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+3	ny	ny	PART	_	Polarity=Neg	7	advmod	_	_
+4	wjest	zȧjn	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	7	aux	_	_
+5	kyna	kyna	AUX	_	VerbForm=Inf	7	aux	_	_
+6	pönyś	pönyś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+7	kuza	kuza	VERB	_	VerbForm=Inf	12	advcl:relcl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9-10	wjesty	_	_	_	_	_	_	_	_
+9	wjest	zȧjn	AUX	_	Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	12	aux	_	_
+10	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
+11	müsa	müsa	AUX	_	VerbForm=Inf	12	aux	_	_
+12	była	była	VERB	_	VerbForm=Inf	0	root	_	_
+13	wi	wi	ADV	_	Degree=Pos|PronType=Int	15	mark	_	_
+14	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	15	det	_	_
+15	hund	hund	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 86
+# text = Der Internet ej hoüt hałt ȧ wihtik medium fum wetergan fun zełda gybroühta śpröha.
+# text_genre = encyclopedia
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Internet	Internet	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+3	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+4	hoüt	hoüt	ADV	_	Degree=Pos	8	advmod	_	_
+5	hałt	hałt	ADV	_	Degree=Pos	8	advmod	_	_
+6	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	8	det	_	_
+7	wihtik	wihtik	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+8	medium	medium	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+9-10	fum	_	_	_	_	_	_	_	_
+9	fu	fu	ADP	_	_	11	case	_	_
+10	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
+11	wetergan	wetergan	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+12-13	fun	_	_	_	_	_	_	_	_
+12	fu	fu	ADP	_	_	16	case	_	_
+13	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+14	zełda	zełda	ADV	_	Degree=Pos	15	advmod	_	_
+15	gybroühta	gybroüht	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	16	amod	_	_
+16	śpröha	śpröh	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 87
+# text = Har hot ȧ fad ȧn der foter hot ȧ fad.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
+3	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	4	det	_	_
+4	fad	fad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+5	ȧn	ȧn	CCONJ	_	_	8	cc	_	_
+6	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	foter	foter	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=Sing|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	10	det	_	_
+10	fad	fad	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 88
+# text = Yhy ziöet, diöt cwe möł wiöe’h śun ȧzu, do, do, yh zułd ny śtarwa, ȧn ȧzu ys’s.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	ziöet	ziöen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	10	punct	_	_
+4	diöt	diöt	ADV	_	Degree=Pos	10	advmod	_	_
+5	cwe	cwe	NUM	_	Case=Nom|Gender=Neut|NumType=Card	6	nummod	_	_
+6	möł	möł	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	nmod	_	_
+7	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No
+8	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	śun	śun	ADV	_	Degree=Pos	10	advmod	_	_
+10	ȧzu	ȧzu	ADV	_	Degree=Pos	2	parataxis	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	do	do	SCONJ	_	_	14	reparandum	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	do	do	SCONJ	_	_	19	discourse	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	19	punct	_	_
+16	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	19	nsubj	_	_
+17	zułd	zuła	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	19	aux	_	_
+18	ny	ny	PART	_	Polarity=Neg	19	advmod	_	_
+19	śtarwa	śtarwa	VERB	_	VerbForm=Inf	2	parataxis	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	ȧn	ȧn	CCONJ	_	_	22	cc	_	_
+22	ȧzu	ȧzu	ADV	_	Degree=Pos	2	conj	_	_
+23	ys	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	SpaceAfter=No
+24	’s	ejs	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 89
+# text = Oder yta fjet yh mih śun mytum rod.
+# text_genre = speech
+# text_source = "Wilamowice to piękne, małe miasto"
+1	Oder	oder	CCONJ	_	_	3	cc	_	_
+2	yta	yta	ADV	_	Degree=Pos	3	advmod	_	_
+3	fjet	fjeta	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	mih	mih	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
+6	śun	śun	ADV	_	Degree=Pos	3	advmod	_	_
+7-8	mytum	_	_	_	_	_	_	_	_
+7	myt	myt	ADP	_	_	9	case	_	_
+8	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	rod	rod	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 90
+# text = Hiöer ok, ny łoüfźe ȧzu byhend!
+# text_genre = grammar
+# text_source = "S’Łjyrbihła cyr wymysiöeryśa śpröh fjy dy grusa łoüt"
+1	Hiöer	hiöera	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	0	root	_	_
+2	ok	ok	ADV	_	Degree=Pos	1	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	ny	ny	PART	_	Polarity=Neg	5	advmod	_	_
+5-6	łoüfźe	_	_	_	_	_	_	_	_
+5	łoüf	łoüfa	VERB	_	Mood=Imp|Number=Sing|VerbForm=Fin	1	parataxis	_	_
+6	źe	źe	PART	_	_	5	advmod	_	_
+7	ȧzu	ȧzu	ADV	_	Degree=Pos	5	advmod	_	_
+8	byhend	byhend	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+9	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 91
+# text = Der geografer gejt kȧ śtytyn, fłys, tȧjhja, mjen ȧn wistȧja rȧhyn.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	geografer	geografer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	gejt	gejn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	kȧ	kȧ	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Neg	5	det	_	_
+5	śtytyn	śtot	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	fłys	fłus	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	tȧjhja	tȧjh	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	mjen	mjer	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+12	ȧn	ȧn	CCONJ	_	_	11	cc	_	_
+13	wistȧja	wistaj	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+14	rȧhyn	rȧhyn	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 92
+# text = Fu wu kymsty – wułd wysa der ołdy kłop.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Fu	fu	ADP	_	_	2	case	_	_
+2	wu	wu	ADV	_	Degree=Pos|PronType=Int	3	obl	_	_
+3-4	kymsty	_	_	_	_	_	_	_	_
+3	kymst	kuma	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+4	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+5	–	–	PUNCT	_	_	7	punct	_	_
+6	wułd	weła	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
+7	wysa	wysa	VERB	_	VerbForm=Inf	0	root	_	_
+8	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	ołdy	ołd	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	10	amod	_	_
+10	kłop	kłop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 93
+# text = Oder jyr zułt ojer cȧjt uf zyty ibnan ny cübrengja.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Oder	oder	CCONJ	_	_	10	cc	_	_
+2	jyr	jyr	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+3	zułt	zuła	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+4	ojer	ojer	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	5	det	_	_
+5	cȧjt	cȧjt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+6	uf	uf	ADP	_	_	8	case	_	_
+7	zyty	zyter	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
+8	ibnan	ibnan	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+9	ny	ny	PART	_	Polarity=Neg	10	advmod	_	_
+10	cübrengja	cübrengja	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 94
+# text = Dy Ad ej grus.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dy	der	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Ad	Ad	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	grus	grus	ADJ	_	Degree=Pos|Variant=Short	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 95
+# text = Dy wȧst ju, wen mȧ zjyr troürik ej, höt mȧ zunaundergeng ym hacta.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Dy	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	wȧst	wysa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+3	ju	ju	ADV	_	Degree=Pos	2	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	wen	wen	SCONJ	_	_	8	mark	_	_
+6	mȧ	mȧ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	8	nsubj	_	_
+7	zjyr	zjyr	ADV	_	Degree=Pos	8	advmod	_	_
+8	troürik	troürik	ADJ	_	Degree=Pos|Variant=Short	11	advcl	_	_
+9	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	höt	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	mȧ	mȧ	PRON	_	Case=Nom|Number=Sing|PronType=Ind	11	nsubj	_	_
+13	zunaundergeng	zunaundergang	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+14	ym	ym	ADV	_	Degree=Pos	15	advmod	_	_
+15	hacta	zejr	ADV	_	Degree=Sup	11	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 96
+# text = Fu milona jün wada dy błimła zuwizu fun barüśa ufgyfrasa.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Fu	fu	ADP	_	_	3	case	_	_
+2	milona	milon	NUM	_	Case=Dat|Gender=Neut|Number=Plur|NumType=Card	3	nummod	_	_
+3	jün	jür	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+4	wada	wada	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	aux	_	_
+5	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	6	det	_	_
+6	błimła	błimła	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	11	nsubj	_	_
+7	zuwizu	zuwizu	ADV	_	Degree=Pos	11	advmod	_	_
+8-9	fun	_	_	_	_	_	_	_	_
+8	fu	fu	ADP	_	_	10	case	_	_
+9	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	10	det	_	_
+10	barüśa	barüś	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+11	ufgyfrasa	uffrasa	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 97
+# text = Fu milona jün wahsa yn błimła djenyn.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Fu	fu	ADP	_	_	3	case	_	_
+2	milona	milon	NUM	_	Case=Dat|Gender=Neut|Number=Plur|NumType=Card	3	nummod	_	_
+3	jün	jür	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	obl	_	_
+4	wahsa	wahsa	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5-6	yn	_	_	_	_	_	_	_	_
+5	y	y	ADP	_	_	7	case	_	_
+6	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
+7	błimła	błimła	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	4	obl	_	_
+8	djenyn	djener	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 98
+# text = Wi śejn dy byst!
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	Wi	wi	ADV	_	Degree=Pos|PronType=Int	2	advmod	_	_
+2	śejn	śejn	ADJ	_	Degree=Pos|Variant=Short	0	root	_	_
+3	dy	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	byst	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 99
+# text = S’kund nist fun andyn wełta ny wysa.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	S’	ejs	PRON	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	SpaceAfter=No
+2	kund	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+3	nist	nist	PRON	_	PronType=Neg	9	obj	_	_
+4-5	fun	_	_	_	_	_	_	_	_
+4	fu	fu	ADP	_	_	7	case	_	_
+5	yn	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
+6	andyn	ander	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|PronType=Ind	7	amod	_	_
+7	wełta	wełt	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	9	obl	_	_
+8	ny	ny	PART	_	Polarity=Neg	9	advmod	_	_
+9	wysa	wysa	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 100
+# text = S’mügjys, wi’ȧ zułd roüsfiöen, roümt’ȧ zȧj planet uf.
+# text_genre = narration
+# text_source = "Der Kliny Fjyśt"
+1	S’mügjys	s’mügjys	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	wi	wi	ADV	_	Degree=Pos|PronType=Int	6	mark	_	SpaceAfter=No
+4	’ȧ	har	PRON	_	Case=Nom|Clititc=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+5	zułd	zuła	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
+6	roüsfiöen	roüsfiöen	VERB	_	VerbForm=Inf	8	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	roümt	roüma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	’ȧ	har	PRON	_	Case=Nom|Clititc=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	zȧj	zȧj	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
+11	planet	planet	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+12	uf	uf	ADP	_	_	8	compound:prt	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 101
+# text = Höst dü oü fejł yr wełt gyat, fergasa höst śtȧjd ufs gybat, gejst ny cyr bȧjht, ȧn oü yr kjyh, zist giöe cy gan uf śejny śnjyh.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Höst	hon	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
+2	dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
+3	oü	oü	ADV	_	Degree=Pos	8	advmod	_	_
+4	fejł	fejł	ADV	_	Degree=Pos	8	advmod	_	_
+5-6	yr	_	_	_	_	_	_	_	_
+5	y	y	ADP	_	_	7	case	_	_
+6	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	wełt	wełt	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+8	gyat	ata	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	fergasa	fergasa	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	8	parataxis	_	_
+11	höst	hon	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+12	śtȧjd	śtȧjd	ADV	_	Degree=Pos	10	advmod	_	_
+13-14	ufs	_	_	_	_	_	_	_	_
+13	uf	uf	ADP	_	_	15	case	_	_
+14	s	der	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+15	gybat	gybat	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obl	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	gejst	gejn	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+18	ny	ny	PART	_	Polarity=Neg	17	advmod	_	_
+19-20	cyr	_	_	_	_	_	_	_	_
+19	cy	cy	ADP	_	_	21	case	_	_
+20	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	bȧjht	bȧjht	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	27	punct	_	_
+23	ȧn	ȧn	CCONJ	_	_	27	cc	_	_
+24	oü	oü	ADV	_	Degree=Pos	27	advmod	_	_
+25-26	yr	_	_	_	_	_	_	_	_
+25	y	y	ADP	_	_	27	case	_	_
+26	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
+27	kjyh	kjyh	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	zist	zan	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+30	giöe	giöe	ADV	_	Degree=Pos	32	advmod	_	_
+31	cy	cy	ADV	_	Degree=Pos	32	advmod	_	_
+32	gan	gan	ADV	_	Degree=Pos	29	advmod	_	_
+33	uf	uf	ADP	_	_	35	case	_	_
+34	śejny	śejn	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	35	amod	_	_
+35	śnjyh	śnjyh	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 102
+# text = Oü głiöesty ny do ej ȧ heł, drym wa’h dejh fjyn yt uf der śteł, zy cy zan, wi dȧj müter byt, do’h dȧj zejł fum ungłyk byhit.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Oü	oü	ADV	_	Degree=Pos	2	advmod	_	_
+2-3	głiöesty	_	_	_	_	_	_	_	_
+2	głiöest	głiöen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	y	dü	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+4	ny	ny	PART	_	Polarity=Neg	2	advmod	_	_
+5	do	do	SCONJ	_	_	8	mark	_	_
+6	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+7	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	8	det	_	_
+8	heł	heł	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	drym	drym	SCONJ	_	_	14	mark	_	_
+11	wa	wada	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	SpaceAfter=No
+12	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+13	dejh	dü	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	14	obj	_	_
+14	fjyn	fjyn	VERB	_	VerbForm=Inf	2	advcl	_	_
+15	yt	yt	ADV	_	Degree=Pos	14	advmod	_	_
+16	uf	uf	ADP	_	_	18	case	_	_
+17	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
+18	śteł	śteł	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	22	punct	_	_
+20	zy	zej	PRON	_	Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+21	cy	cy	PART	_	PartType=Inf	22	mark	_	_
+22	zan	zan	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	wi	wi	ADV	_	Degree=Pos|PronType=Int	27	mark	_	_
+25	dȧj	dȧj	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	_
+26	müter	müter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+27	byt	byta	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	36	punct	_	_
+29	do	do	SCONJ	_	_	36	mark	_	SpaceAfter=No
+30	’h	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	36	nsubj	_	_
+31	dȧj	dȧj	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	32	det	_	_
+32	zejł	zejł	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	36	obj	_	_
+33-34	fum	_	_	_	_	_	_	_	_
+33	fu	fu	ADP	_	_	35	case	_	_
+34	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	35	det	_	_
+35	ungłyk	ungłyk	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	36	obl	_	_
+36	byhit	byhita	VERB	_	VerbForm=Inf	27	ccomp	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 103
+# text = Ynzer ad hjyt uf ym zidpol, uf der andyn zȧjt ym nordpol.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Ynzer	ynzer	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	ad	ad	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+3	hjyt	hjyn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	uf	uf	ADP	_	_	3	compound:prt	_	_
+5-6	ym	_	_	_	_	_	_	_	_
+5	y	y	ADP	_	_	7	case	_	_
+6	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	zidpol	zidpol	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	uf	uf	ADP	_	_	12	case	_	_
+10	der	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+11	andyn	ander	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|PronType=Ind	12	amod	_	_
+12	zȧjt	zȧjt	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	15	obl	_	_
+13-14	ym	_	_	_	_	_	_	_	_
+13	y	y	ADP	_	_	15	case	_	_
+14	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	nordpol	nordpol	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	orphan	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 104
+# text = Duł wje’s cy głiöen, do Göt dy wełt zu klin gymaht, do Har gyśtełt höt di granca di wjyr błynda zan cy enda fön ȧn hynda.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Duł	duł	ADJ	_	Degree=Pos|Variant=Short	0	root	_	_
+2	wje	zȧjn	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	SpaceAfter=No
+3	’s	ejs	PRON	_	Case=Nom|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+4	cy	cy	PART	_	PartType=Inf	5	mark	_	_
+5	głiöen	głiöen	VERB	_	VerbForm=Inf	1	csubj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	do	do	SCONJ	_	_	13	mark	_	_
+8	Göt	Göt	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+9	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	wełt	wełt	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+11	zu	zu	ADV	_	Degree=Pos	12	advmod	_	_
+12	klin	klin	ADJ	_	Degree=Pos|Variant=Short	13	xcomp	_	_
+13	gymaht	maha	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	5	ccomp	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	do	do	SCONJ	_	_	17	mark	_	_
+16	Har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	gyśtełt	śteła	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	5	ccomp	_	_
+18	höt	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+19	di	dar	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem,Ind	20	det	_	_
+20	granca	granc	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	_
+21	di	dar	DET	_	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem,Ind	24	det	_	_
+22	wjyr	wjyr	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	_
+23	błynda	błynd	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	22	amod	_	_
+24	zan	zan	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
+25	cy	cy	ADP	_	_	26	case	_	_
+26	enda	end	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	24	obl	_	_
+27	fön	fön	ADV	_	Degree=Pos	24	advmod	_	_
+28	ȧn	ȧn	CCONJ	_	_	29	cc	_	_
+29	hynda	hynda	ADV	_	Degree=Pos	27	conj	_	SpaceAfter=No
+30	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 105
+# text = Diöt wiöe nö kȧ łanikjy zejł, śtüdjyn gyłiöeta oü zu fejł, ynzer śyfła dy wynd bröhta ejwyn zidpol cyłect nöhta.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Diöt	diöt	ADV	_	Degree=Pos	0	root	_	_
+2	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	_
+3	nö	nö	ADV	_	Degree=Pos	1	advmod	_	_
+4	kȧ	kȧ	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Neg	6	det	_	_
+5	łanikjy	łanik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	zejł	zejł	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	śtüdjyn	śtüdjyn	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+9	gyłiöeta	gyłiöet	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	nsubj	_	_
+10	oü	oü	ADV	_	Degree=Pos	8	advmod	_	_
+11	zu	zu	ADV	_	Degree=Pos	12	advmod	_	_
+12	fejł	fejł	ADV	_	Degree=Pos	8	advmod	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	18	punct	_	_
+14	ynzer	ynzer	DET	_	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
+15	śyfła	śyfła	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	obj	_	_
+16	dy	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	wynd	wynd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	bröhta	brengja	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+19-20	ejwyn	_	_	_	_	_	_	_	_
+19	ejwer	ejwer	ADP	_	_	21	case	_	_
+20	yn	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	zidpol	zidpol	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obl	_	_
+22	cyłect	cyłect	ADV	_	Degree=Pos	18	advmod	_	_
+23	nöhta	nöhta	ADV	_	Degree=Pos	18	advmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 106
+# text = Y Pöłn hower mejer etnyśy grüpa, cym bȧjśpil dy Łemkja, dy Śłyzyn, dy Kaśüba.
+# text_genre = encyclopedia
+# text_source = "Dy Wymysiöejyn ȧn jyr nökwyn"
+1	Y	y	ADP	_	_	2	case	_	_
+2	Pöłn	Pöłn	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	_
+3-4	hower	_	_	_	_	_	_	_	_
+3	hon	hon	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	wer	wjyr	PRON	_	Case=Nom|Clitic=Yes|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+5	mejer	mejer	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	7	amod	_	_
+6	etnyśy	etnyś	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	_
+7	grüpa	grüp	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9-10	cym	_	_	_	_	_	_	_	_
+9	cy	cy	ADP	_	_	11	case	_	_
+10	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	bȧjśpil	bȧjśpil	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	nmod	_	_
+12	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Łemkja	Łemko	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	7	appos	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	Śłyzyn	Śłyzer	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	Kaśüba	Kaśüb	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 107
+# text = Oh, dü ołdy, łiwy śpröh, wjyr kuza dejh inda nöh, dü byst mej wat wi giełd.
+# text_genre = poetry
+# text_source = "Uf jer wełt"
+1	Oh	oh	INTJ	_	_	10	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	10	punct	_	_
+3	dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	vocative	_	_
+4	ołdy	ołd	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	łiwy	łiw	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	śpröh	śpröh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	wjyr	wjyr	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
+10	kuza	kuza	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	dejh	dü	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	obj	_	_
+12	inda	inda	ADV	_	Degree=Pos	13	advmod	_	_
+13	nöh	nöh	ADV	_	Degree=Pos	10	advmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	18	punct	_	_
+15	dü	dü	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
+16	byst	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	cop	_	_
+17	mej	fejł	ADV	_	Degree=Cmp	18	advmod	_	_
+18	wat	wat	ADJ	_	Degree=Pos|Variant=Short	10	parataxis	_	_
+19	wi	wi	ADV	_	Degree=Pos|PronType=Int	20	case	_	_
+20	giełd	giełd	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 108
+# text = Diöt fum hejwuł kymt mȧj Jȧśü śun gyryta, ryta.
+# text_genre = poetry
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Diöt	diöt	ADV	_	Degree=Pos	5	advmod	_	_
+2-3	fum	_	_	_	_	_	_	_	_
+2	fu	fu	ADP	_	_	4	case	_	_
+3	ym	der	DET	_	Case=Det|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
+4	hejwuł	hejwuł	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	_
+5	kymt	kuma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mȧj	mȧj	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	Jȧśü	Jȧśü	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+8	śun	śun	ADV	_	Degree=Pos	5	advmod	_	_
+9	gyryta	gyryta	VERB	_	VerbForm=Conv	5	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ryta	ryta	X	_	_	9	compound:redup	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 109
+# text = Ejwer ynzer śweła, kliny hoüzła tryt’ȧ, tryt’ȧ.
+# text_genre = poetry
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Ejwer	ejwer	ADP	_	_	3	case	_	_
+2	ynzer	ynzer	DET	_	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	śweła	śweła	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	kliny	klin	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	_
+6	hoüzła	hoüzła	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+7	tryt	trata	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	tryt	trata	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	SpaceAfter=No
+11	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 110
+# text = Yh fur frȧjd śpryng yh roüs, śpryng yh roüs, śpryng yh roüs.
+# text_genre = poetry
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2-3	fur	_	_	_	_	_	_	_	_
+2	fu	fu	ADP	_	_	4	case	_	_
+3	yr	der	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	frȧjd	frȧjd	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
+5	śpryng	śpryng	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	nsubj:outer	_	_
+7	roüs	roüs	ADV	_	Degree=Pos	5	compound:prt	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	śpryng	śpryng	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+10	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+11	roüs	roüs	ADV	_	Degree=Pos	9	compound:prt	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	śpryng	śpryng	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+14	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+15	roüs	roüs	ADV	_	Degree=Pos	13	compound:prt	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 111
+# text = H’łö dih śun fu mjyr ny roüs, h’łö dih śun ny roüs.
+# text_genre = poetry
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	H’	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+2	łö	łön	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dih	dü	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	2	obj	_	_
+4	śun	śun	ADV	_	Degree=Pos	2	advmod	_	_
+5	fu	fu	ADP	_	_	6	case	_	_
+6	mjyr	yhy	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
+7	ny	ny	PART	_	Polarity=Neg	2	advmod	_	_
+8	roüs	roüs	ADV	_	Degree=Pos	2	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	h’	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	SpaceAfter=No
+11	łö	łön	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+12	dih	dü	PRON	_	Case=Acc|Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+13	śun	śun	ADV	_	Degree=Pos	11	advmod	_	_
+14	ny	ny	PART	_	Polarity=Neg	11	advmod	_	_
+15	roüs	roüs	ADV	_	Degree=Pos	11	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 112
+# text = Dos ej der doüma, dar śytułt dy fłoüma, dar kłoüt zy uf, dar łet zy hejn, ȧn dar kliny fryst oły uf.
+# text_genre = poetry
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Dos	dar	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem,Rel	4	nsubj	_	_
+2	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	doüma	doüma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	dar	dar	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	7	nsubj	_	_
+7	śytułt	śytułn	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+8	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	fłoüma	fłoüm	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	dar	dar	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	12	nsubj	_	_
+12	kłoüt	kłoün	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+13	zy	zej	PRON	_	Case=Acc|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+14	uf	uf	ADP	_	_	12	compound:prt	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	dar	dar	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	17	nsubj	_	_
+17	łet	łen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+18	zy	zej	PRON	_	Case=Acc|Clitic=Yes|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
+19	hejn	hejn	ADV	_	Degree=Pos	17	compound:prt	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	ȧn	ȧn	CCONJ	_	_	24	cc	_	_
+22	dar	dar	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem,Rel	23	det	_	_
+23	kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	24	nsubj	_	_
+24	fryst	frysa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+25	oły	oły	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	24	obj	_	_
+26	uf	uf	ADP	_	_	24	compound:prt	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 113
+# text = Wi’s yn bün nȧjzoh, zit’s – der mönd ej nȧj ym bün.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Wi	wi	ADV	_	Degree=Pos|PronType=Int	6	mark	_	SpaceAfter=No
+2	’s	ejs	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+3-4	yn	_	_	_	_	_	_	_	_
+3	y	y	ADP	_	_	5	case	_	_
+4	yn	der	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	bün	bün	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+6	nȧjzoh	nȧjzan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl:relcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	zit	zan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	’s	ejs	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	–	–	PUNCT	_	_	13	punct	_	_
+11	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	mönd	mönd	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+14	nȧj	nȧj	ADV	_	Degree=Pos	13	advmod	_	_
+15-16	ym	_	_	_	_	_	_	_	_
+15	y	y	ADP	_	_	17	case	_	_
+16	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	bün	bün	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 114
+# text = Yhy bej Pejter, yhy śrȧjw mih Biba ȧn yh bej fum Płaćnik.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	bej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	Pejter	Pejter	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	yhy	yhy	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+6	śrȧjw	śrȧjwa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+7	mih	mih	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
+8	Biba	Biba	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	_
+9	ȧn	ȧn	CCONJ	_	_	11	cc	_	_
+10	yh	yhy	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	bej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
+12-13	fum	_	_	_	_	_	_	_	_
+12	fu	fu	ADP	_	_	14	case	_	_
+13	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Płaćnik	Płaćnik	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 115
+# text = Mȧj prababa Płaćnik-Helka kund śejn kuza wymysiöeryś, bo zej wiöe ȧ ołdy Wymysiöejeryn fum Płaćnik.
+# text_genre = narration
+# text_source = "Wilamowskie gawędy i pieśni Piotrka Płaćnika"
+1	Mȧj	mȧj	DET	_	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	prababa	prababa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+3	Płaćnik	Płaćnik	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
+4	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	Helka	Helka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	flat:name	_	_
+6	kund	kyna	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
+7	śejn	śejn	ADV	_	Degree=Pos	8	advmod	_	_
+8	kuza	kuza	VERB	_	VerbForm=Inf	0	root	_	_
+9	wymysiöeryś	wymysiöeryś	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	16	punct	_	_
+11	bo	bo	SCONJ	_	_	16	mark	_	_
+12	zej	zej	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+13	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+14	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	16	det	_	_
+15	ołdy	ołd	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	Wymysiöejeryn	Wymysiöejeryn	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	8	advcl	_	_
+17-18	fum	_	_	_	_	_	_	_	_
+17	fu	fu	ADP	_	_	19	case	_	_
+18	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+19	Płaćnik	Płaćnik	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 116
+# text = S’wiöe ym łand ȧ kliny śtat ȧna diöt der Wilhelm hot dy gancy familyj, ȧ klin hytła ȧna zen atsuma kjytła.
+# text_genre = poetry
+# text_source = "S’Ława fum Wilhelm"
+1	S’	ejs	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
+2	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+3-4	ym	_	_	_	_	_	_	_	_
+3	y	y	ADP	_	_	5	case	_	_
+4	ym	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	łand	łand	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
+6	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	8	det	_	_
+7	kliny	klin	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	śtat	śtat	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+9	ȧna	ȧn	CCONJ	_	_	13	cc	_	_
+10	diöt	diöt	ADV	_	Degree=Pos	13	advmod	_	_
+11	der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	Wilhelm	Wilhelm	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+13	hot	hot	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
+14	dy	der	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+15	gancy	ganc	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	_
+16	familyj	familyj	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	20	punct	_	_
+18	ȧ	ȧ	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	20	det	_	_
+19	klin	klin	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	_
+20	hytła	hytła	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	conj	_	_
+21	ȧna	ȧn	CCONJ	_	_	24	cc	_	_
+22	zen	zȧj	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
+23	atsuma	atsum	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	24	amod	_	_
+24	kjytła	kjytła	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	conj	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 117
+# text = Der Wilhelm wiöe ȧ gruser kłop, s’wiöe ȧ śtym, wi’ȧ zȧnc kłopt.
+# text_genre = poetry
+# text_source = "S’Ława fum Wilhelm"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Wilhelm	Wilhelm	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	6	det	_	_
+5	gruser	grus	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	kłop	kłop	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	s’	ejs	PRON	_	Case=Nom|Clitic=Yes|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	SpaceAfter=No
+9	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
+10	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	11	det	_	_
+11	śtym	śtym	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	16	punct	_	_
+13	wi	wi	ADV	_	Degree=Pos|PronType=Int	16	mark	_	SpaceAfter=No
+14	’ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+15	zȧnc	zȧnc	ADV	_	Degree=Pos	16	advmod	_	_
+16	kłopt	kłopa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 118
+# text = Har wiöe braw ȧna huh, har wiöe gyśȧjt ȧn giöe nist głüh.
+# text_genre = poetry
+# text_source = "S’Ława fum Wilhelm"
+1	Har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	braw	braw	ADJ	_	Degree=Pos|Variant=Short	0	root	_	_
+4	ȧna	ȧn	CCONJ	_	_	5	cc	_	_
+5	huh	huh	ADJ	_	Degree=Pos|Variant=Short	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	har	har	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	wiöe	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	gyśȧjt	gyśȧjt	ADJ	_	Degree=Pos|Variant=Short	3	parataxis	_	_
+10	ȧn	ȧn	CCONJ	_	_	13	cc	_	_
+11	giöe	giöe	ADV	_	Degree=Pos	13	advmod	_	_
+12	nist	nist	PART	_	Polarity=Neg	13	advmod	_	_
+13	głüh	głüh	ADJ	_	Degree=Pos|Variant=Short	9	conj	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 119
+# text = Wen ȧ hot śun zymfca jür, dos ej ju ȧ rȧny wür.
+# text_genre = poetry
+# text_source = "S’Ława fum Wilhelm"
+1	Wen	wen	SCONJ	_	_	3	mark	_	_
+2	ȧ	har	PRON	_	Case=Nom|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	hot	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	advcl:relcl	_	_
+4	śun	śun	ADV	_	Degree=Pos	3	advmod	_	_
+5	zymfca	zymfca	NUM	_	NumType=Card	6	nummod	_	_
+6	jür	jür	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	obj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	dos	dar	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem,Rel	12	nsubj	_	_
+9	ej	zȧjn	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+10	ju	ju	ADV	_	Degree=Pos	12	advmod	_	_
+11	ȧ	ȧ	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	12	det	_	_
+12	rȧny	rȧn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+13	wür	wür	ADV	_	Degree=Pos	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 120
+# text = Der Göt höt gyhüt zȧj gybat.
+# text_genre = poetry
+# text_source = "S’Ława fum Wilhelm"
+1	Der	der	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Göt	Göt	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	höt	hon	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	gyhüt	hjyn	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+5	zȧj	zȧj	DET	_	Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
+6	gybat	gybat	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
